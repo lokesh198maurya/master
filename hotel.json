@@ -1,0 +1,760 @@
+{
+	"hotels": [
+	{
+		"HtlToken": "c7590b62bdae43309a666da8a649cc67",
+		"Name": "Towers Rotana",
+		"TTICode": "17730306",
+		"AreaName": "Dubai",
+		"AreaDetail": "",
+		"Contact": {
+			"Address": {
+				"StreetTypeId": "Sheikh Zayed Road",
+				"StreetTypeName": ",,,30430",
+				"StreetName": "",
+				"City": "Dubai",
+				"CountryCode": "AE",
+				"Rank": "250554"
+			},
+			"PhoneList": {
+				"Phone": "971-4-3438050"
+			},
+			"FaxList": {
+				"Fax": "971-4-3435111"
+			}
+		},
+		"HtlContractCode": "/2/itineraries?token=QldfCGlcUA4FVFFSBwADVAtDWAdCWgpYCBJmVlNrEV0FXhRXCHw8M3EgcCUSFkFfWgBqBwxUDQZUXV9SUwpFVxJEVkdTbFlRClAEVQYFUwIPARNGXRAAbU0cQFMIXANeURFaRxEOUABNRAUPV0EPUB8HRxdYQVgJDlEDBwxLAlYUBwAVXVRBD1JMDwxTPlZWXFwNA0wNWB4TVBVXaxIaQlAIYiQlfiNzcEdUB0RaUA9RFkEDEEIMBkNrEhdeU1pVVmgLU1kDCQxZAwwVVxNHS1xeAUwFdnEzEllRFllREVoLBW0HDQReDwZUXgIEVBcHXURXF15HaxFRF0AMFFICBQMFWEcGFFcGUzlYAgkKUgZTAEdMFV5SBQIDVVJEVlULRQtDXgABBUwAUh5aQRZHXwxUQWgXAEBLD1kIZlhdWFcBUQEEAFUCUgdRAAwHUgRcAwVQVwFSClIOUABbAVIHR0tUERFRVw05XlAOUQYGAwNaB1ZIBgBTWkhSBwUETwBUUgAdVw4BBwpUUFMAAlUCQ0gXWhJVSxZAOQ9dBAMNUgxXBEBUUFcBEVUQXABrElpbXFgHVFUNTlEJFFIHZlcFFwd3BAATAHEBAUwMXAZuR1VXRFtBRh06UVYBVQtyekBaVQBpV1ISUBFRRBAIW1YPUBItXAtWHHsAV0VRU1A5UAtXUFlURUdSEF5XCF8RVHIWDiMcA1BJFFkPQQhGTUNRABAGc1RDByERB1NCD05WEQBTFQIjRwRQKFhaBUADBxYLcBJQBRBPSV1EBgsWBycQCwt7C1tfc1YHEQYCQQVwQAYhRFYBFQRCFRZKBgwGVQBbFQUKSQYGEiBcA1YOFUILBVdUBwNUAgxbAVE=",
+		"IncomingOffId": "",
+		"Checkin": {
+			"BeginTime": "2:00 PM",
+			"EndTime": "",
+			"Instructions": "Extra-person charges may apply and vary depending on property policy. Government-issued photo identification and a credit card or cash deposit are required at check-in for incidental charges. Special requests are subject to availability upon check-in and may incur additional charges. Special requests cannot be guaranteed.  The name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation. andamp;lt;br/andamp;gt;Special Instructions: 24-hour airport shuttle service is available on request. Contact the property in advance to make arrangements. A tourism fee is imposed by the city and collected at the property. The fee is AED 15 for the first bedroom per night, and increases by AED 15 per night for each additional bedroom. For further details, please contact the property using the information contained in your confirmation email.",
+			"Minage": "18"
+		},
+		"CheckOut": {
+			"CheckOuttime": "12:00 PM"
+		},
+		"Fees": {
+			"Mandatory": {
+				"p": [
+					"You'll be asked to pay the following charges at the property:",
+					"We have included all charges provided to us by the property. However, charges can vary, for example, based on length of stay or the room you book."
+				],
+				"ul": {
+					"li": [
+						"Deposit: AED 500 per day",
+						"New Year's Eve (31 December) Gala Dinner per adult: AED 550.00",
+						"New Year's Eve (31 December) Gala Dinner per child: AED 275.00",
+						"New Year's Day (1 January) Gala Dinner per adult: AED 550.00",
+						"New Year's Day (1 January) Gala Dinner per child: AED 275.00",
+						"Tourism fee: AED 15.00 per accommodation, per night"
+					]
+				}
+			},
+			"Optional": {
+				"p": [
+					"The following fees and deposits are charged by the property at time of service, check-in, or check-out.",
+					"The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change."
+				],
+				"ul": {
+					"li": [
+						"Fee for buffet breakfast: AED 105 for adults and AED 52.50 for children (approximately)",
+						"Fee for in-room wired Internet: AED 80 per day (rates may vary)",
+						"Airport shuttle fee: AED 320 per person (roundtrip)",
+						"An early check-in fee will be charged",
+						"A late check-out fee will be charged",
+						"Rollaway bed fee: AED 100.0 per night"
+					]
+				}
+			}
+		},
+		"Policies": {
+			"Knowbeforeyougo": {
+				"ul": {
+					"li": [
+						"This property's policy is to refuse certain bookings for the purpose of group events or parties, including pre-wedding stag/bachelor and hen/bachelorette parties.",
+						"This property offers transfers from the airport (surcharges may apply). Guests must contact the property with arrival details 24 hours prior to arrival, using the contact information on the booking confirmation.",
+						"Up to 2 children 12 years old and younger stay free when occupying the parent or guardian's room, using existing bedding.",
+						"Only registered guests are allowed in the guestrooms.",
+						"The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation.",
+						"Set meals are served in guestrooms only (no menus or public dining)."
+					]
+				}
+			}
+		},
+		"Description": "\"amenities\": \"Take advantage of recreational opportunities offered, including a health club, an outdoor pool, and a sauna. This hotel also features complimentary wireless Internet access, concierge services, and babysitting/childcare (surcharge). The complimentary shuttle will take you to the nearby beach or shopping center.\",\n      \"dining\": \"Enjoy a meal at one of the hotel's dining establishments, which include 3 restaurants and a coffee shop/caf?. From your room, you can also access 24-hour room service. Relax with your favorite drink at a bar/lounge or a poolside bar. Buffet breakfasts are available daily from 6 AM to 10:30 AM for a fee.\",\n      \"business_amenities\": \"Featured amenities include a 24-hour business center, express check-in, and complimentary newspapers in the lobby. Planning an event in Trade Center? This hotel has 9645 square feet (896 square meters) of space consisting of conference space and meeting rooms. A roundtrip airport shuttle is provided for a surcharge (available 24 hours), and free valet parking is available onsite.\",\n      \"rooms\": \"Make yourself at home in one of the 375 air-conditioned rooms featuring minibars and flat-screen televisions. Complimentary wireless Internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms have designer toiletries and bidets. Conveniences include phones, as well as laptop-compatible safes and desks.\",\n      \"attractions\": \"Distances are calculated in a straight line from the property's location to the point of interest or attraction, and may not reflect actual travel distance.  Distances are displayed to the nearest 0.1 mile and kilometer. Dubai International Financial Centre - 0.5 km / 0.3 mi City Walk - 1.3 km / 0.8 mi Dubai Mall - 1.5 km / 1 mi KidZania - 1.6 km / 1 mi Dubai International Convention and Exhibition Centre - 1.6 km / 1 mi Burj Khalifa - 1.7 km / 1 mi Dubai Opera - 1.9 km / 1.2 mi Dubai Fountain - 1.9 km / 1.2 mi Dubai International Art Centre - 2.2 km / 1.4 mi Dubai Zoo - 2.2 km / 1.4 mi Dubai World Trade Centre - 2.2 km / 1.4 mi Souk al Bahar - 2.3 km / 1.4 mi Mercato Shopping Mall - 2.4 km / 1.5 mi Jumeirah Mosque - 2.6 km / 1.6 mi Zabeel Park - 3.6 km / 2.2 mi The nearest airports are:Dubai (DXB-Dubai Intl.) - 8.8 km / 5.4 miSharjah (SHJ-Sharjah Intl.) - 27.4 km / 17.1 miDubai (DWC-Al Maktoum Intl.) - 38.2 km / 23.7 miThe preferred airport for Towers Rotana is Dubai (DXB-Dubai Intl.). \",\n      \"location\": \"With a stay at Towers Rotana in Trade Center (Sheikh Zayed Road), you'll be minutes from Dubai International Financial Centre and close to Dubai Mall.  This 4-star hotel is within close proximity of City Walk and KidZania.\"",
+		"ImageList": {
+			"Image": {
+				"Type": "JPG",
+				"Url": "https://i.travelapi.com/hotels/1000000/700000/691500/691415/691415_162_b.jpg",
+				"Order": "1",
+				"VisualizationOrder": "1"
+			}
+		},
+		"StarRating": "4.0",
+		"Tripadvisor": {
+			"_count": "2686",
+			"_Rating": "4.5",
+			"__text": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-39958-4.png"
+		},
+		"Category": {
+			"_PropertyType": "Hotel",
+			"_id": "1",
+			"_shortname": " *"
+		},
+		"Provider": "1EP",
+		"IndexNumber": "5",
+		"Position": {
+			"_latitude": "25.21274",
+			"_longitude": "55.27556"
+		},
+		"Rooms": {
+			"Room": {
+				"RoomType": {
+					"uiD": "307f3222-4",
+					"PaymentOption": {
+						"Url": "/2/properties/691415/payment-options?token=U1dFC0JHTWxUCwUHCXFyQ0wVXAYNDFMJV0BcWEVdBwVWFwtWR1oMAloQZgtSOUFTWgpHAFlwOzF0fSt1FAdEQF1AVl8LAQAED08FVxkFURBbREZBWwkAQGYWVUVGUQlWbw1SDlRWBloIVlJTVlxTBA1VBlUIVg9TBQdSDlVQB11aVQYEFlZGF0NXCwdGPllDBFAAA0wJVwBPBFYcBVVTFEVUQBEIUBBrRRNeAF1fUW0IVAxXUgJaVAQSEQBCRlpWXWgLU1kBC1pQBgFVBEsCWwwJTwFdAwBOVlJSXB8GXQdWW1FQVwcGAlEeAERGF1QNW00FI3VjEgdRFlQXEkIUXVhWBAVbHwRRGlcEQFNcC1ATUBVdAWhCUVpXWFFSBgBJAF0aUwdmAVEQUnkKBkAAcVUHHQJSVGkeJV4DWlpKEFkLXQoCWlcJCFAB"
+					},
+					"RoomId": "200212470",
+					"RoomName": "Classic Double Room",
+					"Amenities": {
+						"Amenitiy": {
+							"_Roomid": "200036313",
+							"_id": "2192",
+							"__text": "Free Wireless Internet"
+						}
+					},
+					"BoardBasis": {
+						"_BBCode": "",
+						"__text": "Room Only"
+					},
+					"CancellationPolicy": {
+						"Price": {
+							"Status": "Refundable",
+							"roomids": {
+								"roomid": "200036313"
+							},
+							"_Amount": "350",
+							"_Note": "1Night",
+							"_dateFrom": "2018-12-10",
+							"_dateTo": "2018-12-15",
+							"_fromDeadline": "2018-12-10",
+							"_toDeadline": "2018-12-10"
+						}
+					},
+					"bed_groups": {
+						"Id": "37321",
+						"Description": "1 King Bed",
+						"Configurations": {
+							"Quantity": "1",
+							"Size": "King",
+							"Type": "KingBed"
+						}
+					},
+					"BookingIdentifier": "/2/properties/availability/691415/rooms/200036313/rates/200212470/price-check?token=Ul1UOl9RCQAAV1NTEkJADFxYAFMACERUAxRaUVRaF2cJVzlBUFoLEVBZfDxkI3d_eENGDRBQPBVISQcJVgNQU0FaQxVZUFNARwNaBk0JUBBZQ0dcQgUJDwtVAQ4YCVQVAVQQUEISRwxVURY-R11BElAJWzpYUwQGBFYKBlZQAQZdV1UHAwYDXVYOUFRQAAhSD1UAUgEOVh4SUBJBXQkNbVxRD1JUV1MGDQcBSwNRAQtMBFRQURsABVMMT1cJAQAAUANQVVJVCx4SVVVWRzlWUVheDFBUDEQGVkdZEFcSCFIXCVcQDAtXPgVdBgwAVx9WARJUBVlUQQJTAwgACBoza0MDUVoGQFQXUgJuEl1UAAhTAVAASAcOFQcBMVJREgslA1cSUHUGBkwAWQBjEhZSXARCbFIKE1pKCVgLXF9NWFxZEF1YPRNRUwhRAl0SB10JFlYUXENBU0ddO01BEgENMXlyKSN_fUUFWEFdEkYdbVINBQNYdiBAAQACPVNSEQFAWUhEDFlbCQIcLwgMUx1yAFxDUANAUAYEVkBbXFFrAFcIVw9UQEsFF10LV1kRU3ETDicQVlZEFgBfTQtAS0MEABEFdgITAXMQBVBHDE5RRAQKFAZ0EVZXeVALVxMHCkMKc0EEAUMYQwYdBlZEB3kXUwstXAtWdVwBFlEBEwMiFlF9EEBSQkFdAUVnFhBbB1lfXD5QVV8NUQxZAlQUVxMRQFBbURxbciBkEwVUFlVBQEcTVQxQUgdaTgAGT1QEE15YQVwHQw1YXmcCXFhdWgNZBAoAUxNIQ1oAUWtEC0ZVCQ5RUQdKUFYWIgtdAFpHEFxeCwIMVQ8CDFEFXw==",
+					"PriceWithOutMarkfee": "435.53",
+					"RoomPrice": "392.94",
+					"TotalTax": "72.73",
+					"MarketingFee": "42.59",
+					"Fees": "74.98 AED",
+					"Salestax": "0",
+					"ResortFee": "0",
+					"CancellationStatus": "Refundable",
+					"GrandTotal": "392.94",
+					"_uiD": "307f3222-4",
+					"_RoomCode": "200036313"
+				},
+				"_Adult": "1",
+				"_Child": "0",
+				"_RoomNo": "1"
+			},
+			"_TTICode": "17730306",
+			"_HotelCode": "691415",
+			"_SupplierCode": "1EP"
+		},
+		"BCount": [
+			{
+				"_Type": "Room Only",
+				"__text": "105"
+			},
+			{
+				"_Type": "Breakfast",
+				"__text": "34"
+			}
+		],
+		"Currency": {
+			"_Supplier": "GBP",
+			"_Client": "GBP",
+			"_ROE": "0.00000"
+		},
+		"_Code": "691415",
+		"_CityCode": "Dubai"
+	},
+	{
+		"HtlToken": "c7590b62bdae43309a666da8a649cc67",
+		"Name": "Taj Hotel",
+		"TTICode": "17730306",
+		"AreaName": "Mumbai",
+		"AreaDetail": "",
+		"Contact": {
+			"Address": {
+				"StreetTypeId": "Express Towers, Nariman Point",
+				"StreetTypeName": ",,,30430",
+				"StreetName": "",
+				"City": "Mumbai",
+				"CountryCode": "IND",
+				"Rank": "250554"
+			},
+			"PhoneList": {
+				"Phone": "971-4-34389891"
+			},
+			"FaxList": {
+				"Fax": "971-4-3435111"
+			}
+		},
+		"HtlContractCode": "/2/itineraries?token=QldfCGlcUA4FVFFSBwADVAtDWAdCWgpYCBJmVlNrEV0FXhRXCHw8M3EgcCUSFkFfWgBqBwxUDQZUXV9SUwpFVxJEVkdTbFlRClAEVQYFUwIPARNGXRAAbU0cQFMIXANeURFaRxEOUABNRAUPV0EPUB8HRxdYQVgJDlEDBwxLAlYUBwAVXVRBD1JMDwxTPlZWXFwNA0wNWB4TVBVXaxIaQlAIYiQlfiNzcEdUB0RaUA9RFkEDEEIMBkNrEhdeU1pVVmgLU1kDCQxZAwwVVxNHS1xeAUwFdnEzEllRFllREVoLBW0HDQReDwZUXgIEVBcHXURXF15HaxFRF0AMFFICBQMFWEcGFFcGUzlYAgkKUgZTAEdMFV5SBQIDVVJEVlULRQtDXgABBUwAUh5aQRZHXwxUQWgXAEBLD1kIZlhdWFcBUQEEAFUCUgdRAAwHUgRcAwVQVwFSClIOUABbAVIHR0tUERFRVw05XlAOUQYGAwNaB1ZIBgBTWkhSBwUETwBUUgAdVw4BBwpUUFMAAlUCQ0gXWhJVSxZAOQ9dBAMNUgxXBEBUUFcBEVUQXABrElpbXFgHVFUNTlEJFFIHZlcFFwd3BAATAHEBAUwMXAZuR1VXRFtBRh06UVYBVQtyekBaVQBpV1ISUBFRRBAIW1YPUBItXAtWHHsAV0VRU1A5UAtXUFlURUdSEF5XCF8RVHIWDiMcA1BJFFkPQQhGTUNRABAGc1RDByERB1NCD05WEQBTFQIjRwRQKFhaBUADBxYLcBJQBRBPSV1EBgsWBycQCwt7C1tfc1YHEQYCQQVwQAYhRFYBFQRCFRZKBgwGVQBbFQUKSQYGEiBcA1YOFUILBVdUBwNUAgxbAVE=",
+		"IncomingOffId": "",
+		"Checkin": {
+			"BeginTime": "2:00 PM",
+			"EndTime": "",
+			"Instructions": "Extra-person charges may apply and vary depending on property policy. Government-issued photo identification and a credit card or cash deposit are required at check-in for incidental charges. Special requests are subject to availability upon check-in and may incur additional charges. Special requests cannot be guaranteed.  The name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation. andamp;lt;br/andamp;gt;Special Instructions: 24-hour airport shuttle service is available on request. Contact the property in advance to make arrangements. A tourism fee is imposed by the city and collected at the property. The fee is AED 15 for the first bedroom per night, and increases by AED 15 per night for each additional bedroom. For further details, please contact the property using the information contained in your confirmation email.",
+			"Minage": "18"
+		},
+		"CheckOut": {
+			"CheckOuttime": "12:00 PM"
+		},
+		"Fees": {
+			"Mandatory": {
+				"p": [
+					"You'll be asked to pay the following charges at the property:",
+					"We have included all charges provided to us by the property. However, charges can vary, for example, based on length of stay or the room you book."
+				],
+				"ul": {
+					"li": [
+						"Deposit: AED 500 per day",
+						"New Year's Eve (31 December) Gala Dinner per adult: AED 550.00",
+						"New Year's Eve (31 December) Gala Dinner per child: AED 275.00",
+						"New Year's Day (1 January) Gala Dinner per adult: AED 550.00",
+						"New Year's Day (1 January) Gala Dinner per child: AED 275.00",
+						"Tourism fee: AED 15.00 per accommodation, per night"
+					]
+				}
+			},
+			"Optional": {
+				"p": [
+					"The following fees and deposits are charged by the property at time of service, check-in, or check-out.",
+					"The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change."
+				],
+				"ul": {
+					"li": [
+						"Fee for buffet breakfast: AED 105 for adults and AED 52.50 for children (approximately)",
+						"Fee for in-room wired Internet: AED 80 per day (rates may vary)",
+						"Airport shuttle fee: AED 320 per person (roundtrip)",
+						"An early check-in fee will be charged",
+						"A late check-out fee will be charged",
+						"Rollaway bed fee: AED 100.0 per night"
+					]
+				}
+			}
+		},
+		"Policies": {
+			"Knowbeforeyougo": {
+				"ul": {
+					"li": [
+						"This property's policy is to refuse certain bookings for the purpose of group events or parties, including pre-wedding stag/bachelor and hen/bachelorette parties.",
+						"This property offers transfers from the airport (surcharges may apply). Guests must contact the property with arrival details 24 hours prior to arrival, using the contact information on the booking confirmation.",
+						"Up to 2 children 12 years old and younger stay free when occupying the parent or guardian's room, using existing bedding.",
+						"Only registered guests are allowed in the guestrooms.",
+						"The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation.",
+						"Set meals are served in guestrooms only (no menus or public dining)."
+					]
+				}
+			}
+		},
+		"Description": "\"amenities\": \"Take advantage of recreational opportunities offered, including a health club, an outdoor pool, and a sauna. This hotel also features complimentary wireless Internet access, concierge services, and babysitting/childcare (surcharge). The complimentary shuttle will take you to the nearby beach or shopping center.\",\n      \"dining\": \"Enjoy a meal at one of the hotel's dining establishments, which include 3 restaurants and a coffee shop/caf?. From your room, you can also access 24-hour room service. Relax with your favorite drink at a bar/lounge or a poolside bar. Buffet breakfasts are available daily from 6 AM to 10:30 AM for a fee.\",\n      \"business_amenities\": \"Featured amenities include a 24-hour business center, express check-in, and complimentary newspapers in the lobby. Planning an event in Trade Center? This hotel has 9645 square feet (896 square meters) of space consisting of conference space and meeting rooms. A roundtrip airport shuttle is provided for a surcharge (available 24 hours), and free valet parking is available onsite.\",\n      \"rooms\": \"Make yourself at home in one of the 375 air-conditioned rooms featuring minibars and flat-screen televisions. Complimentary wireless Internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms have designer toiletries and bidets. Conveniences include phones, as well as laptop-compatible safes and desks.\",\n      \"attractions\": \"Distances are calculated in a straight line from the property's location to the point of interest or attraction, and may not reflect actual travel distance.  Distances are displayed to the nearest 0.1 mile and kilometer. Dubai International Financial Centre - 0.5 km / 0.3 mi City Walk - 1.3 km / 0.8 mi Dubai Mall - 1.5 km / 1 mi KidZania - 1.6 km / 1 mi Dubai International Convention and Exhibition Centre - 1.6 km / 1 mi Burj Khalifa - 1.7 km / 1 mi Dubai Opera - 1.9 km / 1.2 mi Dubai Fountain - 1.9 km / 1.2 mi Dubai International Art Centre - 2.2 km / 1.4 mi Dubai Zoo - 2.2 km / 1.4 mi Dubai World Trade Centre - 2.2 km / 1.4 mi Souk al Bahar - 2.3 km / 1.4 mi Mercato Shopping Mall - 2.4 km / 1.5 mi Jumeirah Mosque - 2.6 km / 1.6 mi Zabeel Park - 3.6 km / 2.2 mi The nearest airports are:Dubai (DXB-Dubai Intl.) - 8.8 km / 5.4 miSharjah (SHJ-Sharjah Intl.) - 27.4 km / 17.1 miDubai (DWC-Al Maktoum Intl.) - 38.2 km / 23.7 miThe preferred airport for Towers Rotana is Dubai (DXB-Dubai Intl.). \",\n      \"location\": \"With a stay at Towers Rotana in Trade Center (Sheikh Zayed Road), you'll be minutes from Dubai International Financial Centre and close to Dubai Mall.  This 4-star hotel is within close proximity of City Walk and KidZania.\"",
+		"ImageList": {
+			"Image": {
+				"Type": "JPG",
+				"Url": "https://i.travelapi.com/hotels/1000000/700000/691500/691415/691415_162_b.jpg",
+				"Order": "1",
+				"VisualizationOrder": "1"
+			}
+		},
+		"StarRating": "4.0",
+		"Tripadvisor": {
+			"_count": "2686",
+			"_Rating": "4.5",
+			"__text": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-39958-4.png"
+		},
+		"Category": {
+			"_PropertyType": "Hotel",
+			"_id": "1",
+			"_shortname": " *"
+		},
+		"Provider": "1EP",
+		"IndexNumber": "5",
+		"Position": {
+			"_latitude": "25.21274",
+			"_longitude": "55.27556"
+		},
+		"Rooms": {
+			"Room": {
+				"RoomType": {
+					"uiD": "307f3222-4",
+					"PaymentOption": {
+						"Url": "/2/properties/691415/payment-options?token=U1dFC0JHTWxUCwUHCXFyQ0wVXAYNDFMJV0BcWEVdBwVWFwtWR1oMAloQZgtSOUFTWgpHAFlwOzF0fSt1FAdEQF1AVl8LAQAED08FVxkFURBbREZBWwkAQGYWVUVGUQlWbw1SDlRWBloIVlJTVlxTBA1VBlUIVg9TBQdSDlVQB11aVQYEFlZGF0NXCwdGPllDBFAAA0wJVwBPBFYcBVVTFEVUQBEIUBBrRRNeAF1fUW0IVAxXUgJaVAQSEQBCRlpWXWgLU1kBC1pQBgFVBEsCWwwJTwFdAwBOVlJSXB8GXQdWW1FQVwcGAlEeAERGF1QNW00FI3VjEgdRFlQXEkIUXVhWBAVbHwRRGlcEQFNcC1ATUBVdAWhCUVpXWFFSBgBJAF0aUwdmAVEQUnkKBkAAcVUHHQJSVGkeJV4DWlpKEFkLXQoCWlcJCFAB"
+					},
+					"RoomId": "200212470",
+					"RoomName": "Classic Double Room",
+					"Amenities": {
+						"Amenitiy": {
+							"_Roomid": "200036313",
+							"_id": "2192",
+							"__text": "Free Wireless Internet"
+						}
+					},
+					"BoardBasis": {
+						"_BBCode": "",
+						"__text": "Room Only"
+					},
+					"CancellationPolicy": {
+						"Price": {
+							"Status": "Refundable",
+							"roomids": {
+								"roomid": "200036313"
+							},
+							"_Amount": "380",
+							"_Note": "1Night",
+							"_dateFrom": "2018-12-10",
+							"_dateTo": "2018-12-15",
+							"_fromDeadline": "2018-12-10",
+							"_toDeadline": "2018-12-10"
+						}
+					},
+					"bed_groups": {
+						"Id": "37321",
+						"Description": "1 King Bed",
+						"Configurations": {
+							"Quantity": "1",
+							"Size": "King",
+							"Type": "KingBed"
+						}
+					},
+					"BookingIdentifier": "/2/properties/availability/691415/rooms/200036313/rates/200212470/price-check?token=Ul1UOl9RCQAAV1NTEkJADFxYAFMACERUAxRaUVRaF2cJVzlBUFoLEVBZfDxkI3d_eENGDRBQPBVISQcJVgNQU0FaQxVZUFNARwNaBk0JUBBZQ0dcQgUJDwtVAQ4YCVQVAVQQUEISRwxVURY-R11BElAJWzpYUwQGBFYKBlZQAQZdV1UHAwYDXVYOUFRQAAhSD1UAUgEOVh4SUBJBXQkNbVxRD1JUV1MGDQcBSwNRAQtMBFRQURsABVMMT1cJAQAAUANQVVJVCx4SVVVWRzlWUVheDFBUDEQGVkdZEFcSCFIXCVcQDAtXPgVdBgwAVx9WARJUBVlUQQJTAwgACBoza0MDUVoGQFQXUgJuEl1UAAhTAVAASAcOFQcBMVJREgslA1cSUHUGBkwAWQBjEhZSXARCbFIKE1pKCVgLXF9NWFxZEF1YPRNRUwhRAl0SB10JFlYUXENBU0ddO01BEgENMXlyKSN_fUUFWEFdEkYdbVINBQNYdiBAAQACPVNSEQFAWUhEDFlbCQIcLwgMUx1yAFxDUANAUAYEVkBbXFFrAFcIVw9UQEsFF10LV1kRU3ETDicQVlZEFgBfTQtAS0MEABEFdgITAXMQBVBHDE5RRAQKFAZ0EVZXeVALVxMHCkMKc0EEAUMYQwYdBlZEB3kXUwstXAtWdVwBFlEBEwMiFlF9EEBSQkFdAUVnFhBbB1lfXD5QVV8NUQxZAlQUVxMRQFBbURxbciBkEwVUFlVBQEcTVQxQUgdaTgAGT1QEE15YQVwHQw1YXmcCXFhdWgNZBAoAUxNIQ1oAUWtEC0ZVCQ5RUQdKUFYWIgtdAFpHEFxeCwIMVQ8CDFEFXw==",
+					"PriceWithOutMarkfee": "435.53",
+					"RoomPrice": "392.94",
+					"TotalTax": "72.73",
+					"MarketingFee": "42.59",
+					"Fees": "74.98 AED",
+					"Salestax": "0",
+					"ResortFee": "0",
+					"CancellationStatus": "Refundable",
+					"GrandTotal": "392.94",
+					"_uiD": "307f3222-4",
+					"_RoomCode": "200036313"
+				},
+				"_Adult": "1",
+				"_Child": "0",
+				"_RoomNo": "1"
+			},
+			"_TTICode": "17730306",
+			"_HotelCode": "691415",
+			"_SupplierCode": "1EP"
+		},
+		"BCount": [
+			{
+				"_Type": "Room Only",
+				"__text": "105"
+			},
+			{
+				"_Type": "Breakfast",
+				"__text": "34"
+			}
+		],
+		"Currency": {
+			"_Supplier": "GBP",
+			"_Client": "GBP",
+			"_ROE": "0.00000"
+		},
+		"_Code": "691415",
+		"_CityCode": "Dubai"
+	},
+	{
+		"HtlToken": "c7590b62bdae43309a666da8a649cc67",
+		"Name": "Towers Rotana",
+		"TTICode": "17730306",
+		"AreaName": "Dubai",
+		"AreaDetail": "",
+		"Contact": {
+			"Address": {
+				"StreetTypeId": "Sheikh Zayed Road",
+				"StreetTypeName": ",,,30430",
+				"StreetName": "",
+				"City": "Dubai",
+				"CountryCode": "AE",
+				"Rank": "250554"
+			},
+			"PhoneList": {
+				"Phone": "971-4-3438000"
+			},
+			"FaxList": {
+				"Fax": "971-4-3435111"
+			}
+		},
+		"HtlContractCode": "/2/itineraries?token=QldfCGlcUA4FVFFSBwADVAtDWAdCWgpYCBJmVlNrEV0FXhRXCHw8M3EgcCUSFkFfWgBqBwxUDQZUXV9SUwpFVxJEVkdTbFlRClAEVQYFUwIPARNGXRAAbU0cQFMIXANeURFaRxEOUABNRAUPV0EPUB8HRxdYQVgJDlEDBwxLAlYUBwAVXVRBD1JMDwxTPlZWXFwNA0wNWB4TVBVXaxIaQlAIYiQlfiNzcEdUB0RaUA9RFkEDEEIMBkNrEhdeU1pVVmgLU1kDCQxZAwwVVxNHS1xeAUwFdnEzEllRFllREVoLBW0HDQReDwZUXgIEVBcHXURXF15HaxFRF0AMFFICBQMFWEcGFFcGUzlYAgkKUgZTAEdMFV5SBQIDVVJEVlULRQtDXgABBUwAUh5aQRZHXwxUQWgXAEBLD1kIZlhdWFcBUQEEAFUCUgdRAAwHUgRcAwVQVwFSClIOUABbAVIHR0tUERFRVw05XlAOUQYGAwNaB1ZIBgBTWkhSBwUETwBUUgAdVw4BBwpUUFMAAlUCQ0gXWhJVSxZAOQ9dBAMNUgxXBEBUUFcBEVUQXABrElpbXFgHVFUNTlEJFFIHZlcFFwd3BAATAHEBAUwMXAZuR1VXRFtBRh06UVYBVQtyekBaVQBpV1ISUBFRRBAIW1YPUBItXAtWHHsAV0VRU1A5UAtXUFlURUdSEF5XCF8RVHIWDiMcA1BJFFkPQQhGTUNRABAGc1RDByERB1NCD05WEQBTFQIjRwRQKFhaBUADBxYLcBJQBRBPSV1EBgsWBycQCwt7C1tfc1YHEQYCQQVwQAYhRFYBFQRCFRZKBgwGVQBbFQUKSQYGEiBcA1YOFUILBVdUBwNUAgxbAVE=",
+		"IncomingOffId": "",
+		"Checkin": {
+			"BeginTime": "2:00 PM",
+			"EndTime": "",
+			"Instructions": "Extra-person charges may apply and vary depending on property policy. Government-issued photo identification and a credit card or cash deposit are required at check-in for incidental charges. Special requests are subject to availability upon check-in and may incur additional charges. Special requests cannot be guaranteed.  The name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation. andamp;lt;br/andamp;gt;Special Instructions: 24-hour airport shuttle service is available on request. Contact the property in advance to make arrangements. A tourism fee is imposed by the city and collected at the property. The fee is AED 15 for the first bedroom per night, and increases by AED 15 per night for each additional bedroom. For further details, please contact the property using the information contained in your confirmation email.",
+			"Minage": "18"
+		},
+		"CheckOut": {
+			"CheckOuttime": "12:00 PM"
+		},
+		"Fees": {
+			"Mandatory": {
+				"p": [
+					"You'll be asked to pay the following charges at the property:",
+					"We have included all charges provided to us by the property. However, charges can vary, for example, based on length of stay or the room you book."
+				],
+				"ul": {
+					"li": [
+						"Deposit: AED 500 per day",
+						"New Year's Eve (31 December) Gala Dinner per adult: AED 550.00",
+						"New Year's Eve (31 December) Gala Dinner per child: AED 275.00",
+						"New Year's Day (1 January) Gala Dinner per adult: AED 550.00",
+						"New Year's Day (1 January) Gala Dinner per child: AED 275.00",
+						"Tourism fee: AED 15.00 per accommodation, per night"
+					]
+				}
+			},
+			"Optional": {
+				"p": [
+					"The following fees and deposits are charged by the property at time of service, check-in, or check-out.",
+					"The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change."
+				],
+				"ul": {
+					"li": [
+						"Fee for buffet breakfast: AED 105 for adults and AED 52.50 for children (approximately)",
+						"Fee for in-room wired Internet: AED 80 per day (rates may vary)",
+						"Airport shuttle fee: AED 320 per person (roundtrip)",
+						"An early check-in fee will be charged",
+						"A late check-out fee will be charged",
+						"Rollaway bed fee: AED 100.0 per night"
+					]
+				}
+			}
+		},
+		"Policies": {
+			"Knowbeforeyougo": {
+				"ul": {
+					"li": [
+						"This property's policy is to refuse certain bookings for the purpose of group events or parties, including pre-wedding stag/bachelor and hen/bachelorette parties.",
+						"This property offers transfers from the airport (surcharges may apply). Guests must contact the property with arrival details 24 hours prior to arrival, using the contact information on the booking confirmation.",
+						"Up to 2 children 12 years old and younger stay free when occupying the parent or guardian's room, using existing bedding.",
+						"Only registered guests are allowed in the guestrooms.",
+						"The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation.",
+						"Set meals are served in guestrooms only (no menus or public dining)."
+					]
+				}
+			}
+		},
+		"Description": "\"amenities\": \"Take advantage of recreational opportunities offered, including a health club, an outdoor pool, and a sauna. This hotel also features complimentary wireless Internet access, concierge services, and babysitting/childcare (surcharge). The complimentary shuttle will take you to the nearby beach or shopping center.\",\n      \"dining\": \"Enjoy a meal at one of the hotel's dining establishments, which include 3 restaurants and a coffee shop/caf?. From your room, you can also access 24-hour room service. Relax with your favorite drink at a bar/lounge or a poolside bar. Buffet breakfasts are available daily from 6 AM to 10:30 AM for a fee.\",\n      \"business_amenities\": \"Featured amenities include a 24-hour business center, express check-in, and complimentary newspapers in the lobby. Planning an event in Trade Center? This hotel has 9645 square feet (896 square meters) of space consisting of conference space and meeting rooms. A roundtrip airport shuttle is provided for a surcharge (available 24 hours), and free valet parking is available onsite.\",\n      \"rooms\": \"Make yourself at home in one of the 375 air-conditioned rooms featuring minibars and flat-screen televisions. Complimentary wireless Internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms have designer toiletries and bidets. Conveniences include phones, as well as laptop-compatible safes and desks.\",\n      \"attractions\": \"Distances are calculated in a straight line from the property's location to the point of interest or attraction, and may not reflect actual travel distance.  Distances are displayed to the nearest 0.1 mile and kilometer. Dubai International Financial Centre - 0.5 km / 0.3 mi City Walk - 1.3 km / 0.8 mi Dubai Mall - 1.5 km / 1 mi KidZania - 1.6 km / 1 mi Dubai International Convention and Exhibition Centre - 1.6 km / 1 mi Burj Khalifa - 1.7 km / 1 mi Dubai Opera - 1.9 km / 1.2 mi Dubai Fountain - 1.9 km / 1.2 mi Dubai International Art Centre - 2.2 km / 1.4 mi Dubai Zoo - 2.2 km / 1.4 mi Dubai World Trade Centre - 2.2 km / 1.4 mi Souk al Bahar - 2.3 km / 1.4 mi Mercato Shopping Mall - 2.4 km / 1.5 mi Jumeirah Mosque - 2.6 km / 1.6 mi Zabeel Park - 3.6 km / 2.2 mi The nearest airports are:Dubai (DXB-Dubai Intl.) - 8.8 km / 5.4 miSharjah (SHJ-Sharjah Intl.) - 27.4 km / 17.1 miDubai (DWC-Al Maktoum Intl.) - 38.2 km / 23.7 miThe preferred airport for Towers Rotana is Dubai (DXB-Dubai Intl.). \",\n      \"location\": \"With a stay at Towers Rotana in Trade Center (Sheikh Zayed Road), you'll be minutes from Dubai International Financial Centre and close to Dubai Mall.  This 4-star hotel is within close proximity of City Walk and KidZania.\"",
+		"ImageList": {
+			"Image": {
+				"Type": "JPG",
+				"Url": "https://i.travelapi.com/hotels/1000000/700000/691500/691415/691415_162_b.jpg",
+				"Order": "1",
+				"VisualizationOrder": "1"
+			}
+		},
+		"StarRating": "4.0",
+		"Tripadvisor": {
+			"_count": "2686",
+			"_Rating": "4.5",
+			"__text": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-39958-4.png"
+		},
+		"Category": {
+			"_PropertyType": "Hotel",
+			"_id": "1",
+			"_shortname": " *"
+		},
+		"Provider": "1EP",
+		"IndexNumber": "5",
+		"Position": {
+			"_latitude": "25.21274",
+			"_longitude": "55.27556"
+		},
+		"Rooms": {
+			"Room": {
+				"RoomType": {
+					"uiD": "307f3222-4",
+					"PaymentOption": {
+						"Url": "/2/properties/691415/payment-options?token=U1dFC0JHTWxUCwUHCXFyQ0wVXAYNDFMJV0BcWEVdBwVWFwtWR1oMAloQZgtSOUFTWgpHAFlwOzF0fSt1FAdEQF1AVl8LAQAED08FVxkFURBbREZBWwkAQGYWVUVGUQlWbw1SDlRWBloIVlJTVlxTBA1VBlUIVg9TBQdSDlVQB11aVQYEFlZGF0NXCwdGPllDBFAAA0wJVwBPBFYcBVVTFEVUQBEIUBBrRRNeAF1fUW0IVAxXUgJaVAQSEQBCRlpWXWgLU1kBC1pQBgFVBEsCWwwJTwFdAwBOVlJSXB8GXQdWW1FQVwcGAlEeAERGF1QNW00FI3VjEgdRFlQXEkIUXVhWBAVbHwRRGlcEQFNcC1ATUBVdAWhCUVpXWFFSBgBJAF0aUwdmAVEQUnkKBkAAcVUHHQJSVGkeJV4DWlpKEFkLXQoCWlcJCFAB"
+					},
+					"RoomId": "200212470",
+					"RoomName": "Classic Double Room",
+					"Amenities": {
+						"Amenitiy": {
+							"_Roomid": "200036313",
+							"_id": "2192",
+							"__text": "Free Wireless Internet"
+						}
+					},
+					"BoardBasis": {
+						"_BBCode": "",
+						"__text": "Room Only"
+					},
+					"CancellationPolicy": {
+						"Price": {
+							"Status": "Refundable",
+							"roomids": {
+								"roomid": "200036313"
+							},
+							"_Amount": "550",
+							"_Note": "1Night",
+							"_dateFrom": "2018-12-10",
+							"_dateTo": "2018-12-15",
+							"_fromDeadline": "2018-12-10",
+							"_toDeadline": "2018-12-10"
+						}
+					},
+					"bed_groups": {
+						"Id": "37321",
+						"Description": "1 King Bed",
+						"Configurations": {
+							"Quantity": "1",
+							"Size": "King",
+							"Type": "KingBed"
+						}
+					},
+					"BookingIdentifier": "/2/properties/availability/691415/rooms/200036313/rates/200212470/price-check?token=Ul1UOl9RCQAAV1NTEkJADFxYAFMACERUAxRaUVRaF2cJVzlBUFoLEVBZfDxkI3d_eENGDRBQPBVISQcJVgNQU0FaQxVZUFNARwNaBk0JUBBZQ0dcQgUJDwtVAQ4YCVQVAVQQUEISRwxVURY-R11BElAJWzpYUwQGBFYKBlZQAQZdV1UHAwYDXVYOUFRQAAhSD1UAUgEOVh4SUBJBXQkNbVxRD1JUV1MGDQcBSwNRAQtMBFRQURsABVMMT1cJAQAAUANQVVJVCx4SVVVWRzlWUVheDFBUDEQGVkdZEFcSCFIXCVcQDAtXPgVdBgwAVx9WARJUBVlUQQJTAwgACBoza0MDUVoGQFQXUgJuEl1UAAhTAVAASAcOFQcBMVJREgslA1cSUHUGBkwAWQBjEhZSXARCbFIKE1pKCVgLXF9NWFxZEF1YPRNRUwhRAl0SB10JFlYUXENBU0ddO01BEgENMXlyKSN_fUUFWEFdEkYdbVINBQNYdiBAAQACPVNSEQFAWUhEDFlbCQIcLwgMUx1yAFxDUANAUAYEVkBbXFFrAFcIVw9UQEsFF10LV1kRU3ETDicQVlZEFgBfTQtAS0MEABEFdgITAXMQBVBHDE5RRAQKFAZ0EVZXeVALVxMHCkMKc0EEAUMYQwYdBlZEB3kXUwstXAtWdVwBFlEBEwMiFlF9EEBSQkFdAUVnFhBbB1lfXD5QVV8NUQxZAlQUVxMRQFBbURxbciBkEwVUFlVBQEcTVQxQUgdaTgAGT1QEE15YQVwHQw1YXmcCXFhdWgNZBAoAUxNIQ1oAUWtEC0ZVCQ5RUQdKUFYWIgtdAFpHEFxeCwIMVQ8CDFEFXw==",
+					"PriceWithOutMarkfee": "435.53",
+					"RoomPrice": "392.94",
+					"TotalTax": "72.73",
+					"MarketingFee": "42.59",
+					"Fees": "74.98 AED",
+					"Salestax": "0",
+					"ResortFee": "0",
+					"CancellationStatus": "Refundable",
+					"GrandTotal": "392.94",
+					"_uiD": "307f3222-4",
+					"_RoomCode": "200036313"
+				},
+				"_Adult": "1",
+				"_Child": "0",
+				"_RoomNo": "1"
+			},
+			"_TTICode": "17730306",
+			"_HotelCode": "691415",
+			"_SupplierCode": "1EP"
+		},
+		"BCount": [
+			{
+				"_Type": "Room Only",
+				"__text": "105"
+			},
+			{
+				"_Type": "Breakfast",
+				"__text": "34"
+			}
+		],
+		"Currency": {
+			"_Supplier": "GBP",
+			"_Client": "GBP",
+			"_ROE": "0.00000"
+		},
+		"_Code": "691415",
+		"_CityCode": "Dubai"
+	},
+	{
+		"HtlToken": "c7590b62bdae43309a666da8a649cc67",
+		"Name": "Ashoka Hotel",
+		"TTICode": "17730306",
+		"AreaName": "Dhaula Kuan",
+		"AreaDetail": "",
+		"Contact": {
+			"Address": {
+				"StreetTypeId": "Dhaula Kuan",
+				"StreetTypeName": ",,,30430",
+				"StreetName": "",
+				"City": "Delhi",
+				"CountryCode": "AE",
+				"Rank": "250554"
+			},
+			"PhoneList": {
+				"Phone": "971-4-757195"
+			},
+			"FaxList": {
+				"Fax": "971-4-3435111"
+			}
+		},
+		"HtlContractCode": "/2/itineraries?token=QldfCGlcUA4FVFFSBwADVAtDWAdCWgpYCBJmVlNrEV0FXhRXCHw8M3EgcCUSFkFfWgBqBwxUDQZUXV9SUwpFVxJEVkdTbFlRClAEVQYFUwIPARNGXRAAbU0cQFMIXANeURFaRxEOUABNRAUPV0EPUB8HRxdYQVgJDlEDBwxLAlYUBwAVXVRBD1JMDwxTPlZWXFwNA0wNWB4TVBVXaxIaQlAIYiQlfiNzcEdUB0RaUA9RFkEDEEIMBkNrEhdeU1pVVmgLU1kDCQxZAwwVVxNHS1xeAUwFdnEzEllRFllREVoLBW0HDQReDwZUXgIEVBcHXURXF15HaxFRF0AMFFICBQMFWEcGFFcGUzlYAgkKUgZTAEdMFV5SBQIDVVJEVlULRQtDXgABBUwAUh5aQRZHXwxUQWgXAEBLD1kIZlhdWFcBUQEEAFUCUgdRAAwHUgRcAwVQVwFSClIOUABbAVIHR0tUERFRVw05XlAOUQYGAwNaB1ZIBgBTWkhSBwUETwBUUgAdVw4BBwpUUFMAAlUCQ0gXWhJVSxZAOQ9dBAMNUgxXBEBUUFcBEVUQXABrElpbXFgHVFUNTlEJFFIHZlcFFwd3BAATAHEBAUwMXAZuR1VXRFtBRh06UVYBVQtyekBaVQBpV1ISUBFRRBAIW1YPUBItXAtWHHsAV0VRU1A5UAtXUFlURUdSEF5XCF8RVHIWDiMcA1BJFFkPQQhGTUNRABAGc1RDByERB1NCD05WEQBTFQIjRwRQKFhaBUADBxYLcBJQBRBPSV1EBgsWBycQCwt7C1tfc1YHEQYCQQVwQAYhRFYBFQRCFRZKBgwGVQBbFQUKSQYGEiBcA1YOFUILBVdUBwNUAgxbAVE=",
+		"IncomingOffId": "",
+		"Checkin": {
+			"BeginTime": "2:00 PM",
+			"EndTime": "",
+			"Instructions": "Extra-person charges may apply and vary depending on property policy. Government-issued photo identification and a credit card or cash deposit are required at check-in for incidental charges. Special requests are subject to availability upon check-in and may incur additional charges. Special requests cannot be guaranteed.  The name on the credit card used at check-in to pay for incidentals must be the primary name on the guestroom reservation. andamp;lt;br/andamp;gt;Special Instructions: 24-hour airport shuttle service is available on request. Contact the property in advance to make arrangements. A tourism fee is imposed by the city and collected at the property. The fee is AED 15 for the first bedroom per night, and increases by AED 15 per night for each additional bedroom. For further details, please contact the property using the information contained in your confirmation email.",
+			"Minage": "18"
+		},
+		"CheckOut": {
+			"CheckOuttime": "12:00 PM"
+		},
+		"Fees": {
+			"Mandatory": {
+				"p": [
+					"You'll be asked to pay the following charges at the property:",
+					"We have included all charges provided to us by the property. However, charges can vary, for example, based on length of stay or the room you book."
+				],
+				"ul": {
+					"li": [
+						"Deposit: AED 500 per day",
+						"New Year's Eve (31 December) Gala Dinner per adult: AED 550.00",
+						"New Year's Eve (31 December) Gala Dinner per child: AED 275.00",
+						"New Year's Day (1 January) Gala Dinner per adult: AED 550.00",
+						"New Year's Day (1 January) Gala Dinner per child: AED 275.00",
+						"Tourism fee: AED 15.00 per accommodation, per night"
+					]
+				}
+			},
+			"Optional": {
+				"p": [
+					"The following fees and deposits are charged by the property at time of service, check-in, or check-out.",
+					"The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change."
+				],
+				"ul": {
+					"li": [
+						"Fee for buffet breakfast: AED 105 for adults and AED 52.50 for children (approximately)",
+						"Fee for in-room wired Internet: AED 80 per day (rates may vary)",
+						"Airport shuttle fee: AED 320 per person (roundtrip)",
+						"An early check-in fee will be charged",
+						"A late check-out fee will be charged",
+						"Rollaway bed fee: AED 100.0 per night"
+					]
+				}
+			}
+		},
+		"Policies": {
+			"Knowbeforeyougo": {
+				"ul": {
+					"li": [
+						"This property's policy is to refuse certain bookings for the purpose of group events or parties, including pre-wedding stag/bachelor and hen/bachelorette parties.",
+						"This property offers transfers from the airport (surcharges may apply). Guests must contact the property with arrival details 24 hours prior to arrival, using the contact information on the booking confirmation.",
+						"Up to 2 children 12 years old and younger stay free when occupying the parent or guardian's room, using existing bedding.",
+						"Only registered guests are allowed in the guestrooms.",
+						"The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation.",
+						"Set meals are served in guestrooms only (no menus or public dining)."
+					]
+				}
+			}
+		},
+		"Description": "\"amenities\": \"Take advantage of recreational opportunities offered, including a health club, an outdoor pool, and a sauna. This hotel also features complimentary wireless Internet access, concierge services, and babysitting/childcare (surcharge). The complimentary shuttle will take you to the nearby beach or shopping center.\",\n      \"dining\": \"Enjoy a meal at one of the hotel's dining establishments, which include 3 restaurants and a coffee shop/caf?. From your room, you can also access 24-hour room service. Relax with your favorite drink at a bar/lounge or a poolside bar. Buffet breakfasts are available daily from 6 AM to 10:30 AM for a fee.\",\n      \"business_amenities\": \"Featured amenities include a 24-hour business center, express check-in, and complimentary newspapers in the lobby. Planning an event in Trade Center? This hotel has 9645 square feet (896 square meters) of space consisting of conference space and meeting rooms. A roundtrip airport shuttle is provided for a surcharge (available 24 hours), and free valet parking is available onsite.\",\n      \"rooms\": \"Make yourself at home in one of the 375 air-conditioned rooms featuring minibars and flat-screen televisions. Complimentary wireless Internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms have designer toiletries and bidets. Conveniences include phones, as well as laptop-compatible safes and desks.\",\n      \"attractions\": \"Distances are calculated in a straight line from the property's location to the point of interest or attraction, and may not reflect actual travel distance.  Distances are displayed to the nearest 0.1 mile and kilometer. Dubai International Financial Centre - 0.5 km / 0.3 mi City Walk - 1.3 km / 0.8 mi Dubai Mall - 1.5 km / 1 mi KidZania - 1.6 km / 1 mi Dubai International Convention and Exhibition Centre - 1.6 km / 1 mi Burj Khalifa - 1.7 km / 1 mi Dubai Opera - 1.9 km / 1.2 mi Dubai Fountain - 1.9 km / 1.2 mi Dubai International Art Centre - 2.2 km / 1.4 mi Dubai Zoo - 2.2 km / 1.4 mi Dubai World Trade Centre - 2.2 km / 1.4 mi Souk al Bahar - 2.3 km / 1.4 mi Mercato Shopping Mall - 2.4 km / 1.5 mi Jumeirah Mosque - 2.6 km / 1.6 mi Zabeel Park - 3.6 km / 2.2 mi The nearest airports are:Dubai (DXB-Dubai Intl.) - 8.8 km / 5.4 miSharjah (SHJ-Sharjah Intl.) - 27.4 km / 17.1 miDubai (DWC-Al Maktoum Intl.) - 38.2 km / 23.7 miThe preferred airport for Towers Rotana is Dubai (DXB-Dubai Intl.). \",\n      \"location\": \"With a stay at Towers Rotana in Trade Center (Sheikh Zayed Road), you'll be minutes from Dubai International Financial Centre and close to Dubai Mall.  This 4-star hotel is within close proximity of City Walk and KidZania.\"",
+		"ImageList": {
+			"Image": {
+				"Type": "JPG",
+				"Url": "https://i.travelapi.com/hotels/1000000/700000/691500/691415/691415_162_b.jpg",
+				"Order": "1",
+				"VisualizationOrder": "1"
+			}
+		},
+		"StarRating": "4.0",
+		"Tripadvisor": {
+			"_count": "2686",
+			"_Rating": "4.5",
+			"__text": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-39958-4.png"
+		},
+		"Category": {
+			"_PropertyType": "Hotel",
+			"_id": "1",
+			"_shortname": " *"
+		},
+		"Provider": "1EP",
+		"IndexNumber": "5",
+		"Position": {
+			"_latitude": "25.21274",
+			"_longitude": "55.27556"
+		},
+		"Rooms": {
+			"Room": {
+				"RoomType": {
+					"uiD": "307f3222-4",
+					"PaymentOption": {
+						"Url": "/2/properties/691415/payment-options?token=U1dFC0JHTWxUCwUHCXFyQ0wVXAYNDFMJV0BcWEVdBwVWFwtWR1oMAloQZgtSOUFTWgpHAFlwOzF0fSt1FAdEQF1AVl8LAQAED08FVxkFURBbREZBWwkAQGYWVUVGUQlWbw1SDlRWBloIVlJTVlxTBA1VBlUIVg9TBQdSDlVQB11aVQYEFlZGF0NXCwdGPllDBFAAA0wJVwBPBFYcBVVTFEVUQBEIUBBrRRNeAF1fUW0IVAxXUgJaVAQSEQBCRlpWXWgLU1kBC1pQBgFVBEsCWwwJTwFdAwBOVlJSXB8GXQdWW1FQVwcGAlEeAERGF1QNW00FI3VjEgdRFlQXEkIUXVhWBAVbHwRRGlcEQFNcC1ATUBVdAWhCUVpXWFFSBgBJAF0aUwdmAVEQUnkKBkAAcVUHHQJSVGkeJV4DWlpKEFkLXQoCWlcJCFAB"
+					},
+					"RoomId": "200212470",
+					"RoomName": "Classic Double Room",
+					"Amenities": {
+						"Amenitiy": {
+							"_Roomid": "200036313",
+							"_id": "2192",
+							"__text": "Free Wireless Internet"
+						}
+					},
+					"BoardBasis": {
+						"_BBCode": "",
+						"__text": "Room Only"
+					},
+					"CancellationPolicy": {
+						"Price": {
+							"Status": "Refundable",
+							"roomids": {
+								"roomid": "200036313"
+							},
+							"_Amount": "450",
+							"_Note": "1Night",
+							"_dateFrom": "2018-12-10",
+							"_dateTo": "2018-12-15",
+							"_fromDeadline": "2018-12-10",
+							"_toDeadline": "2018-12-10"
+						}
+					},
+					"bed_groups": {
+						"Id": "37321",
+						"Description": "1 King Bed",
+						"Configurations": {
+							"Quantity": "1",
+							"Size": "King",
+							"Type": "KingBed"
+						}
+					},
+					"BookingIdentifier": "/2/properties/availability/691415/rooms/200036313/rates/200212470/price-check?token=Ul1UOl9RCQAAV1NTEkJADFxYAFMACERUAxRaUVRaF2cJVzlBUFoLEVBZfDxkI3d_eENGDRBQPBVISQcJVgNQU0FaQxVZUFNARwNaBk0JUBBZQ0dcQgUJDwtVAQ4YCVQVAVQQUEISRwxVURY-R11BElAJWzpYUwQGBFYKBlZQAQZdV1UHAwYDXVYOUFRQAAhSD1UAUgEOVh4SUBJBXQkNbVxRD1JUV1MGDQcBSwNRAQtMBFRQURsABVMMT1cJAQAAUANQVVJVCx4SVVVWRzlWUVheDFBUDEQGVkdZEFcSCFIXCVcQDAtXPgVdBgwAVx9WARJUBVlUQQJTAwgACBoza0MDUVoGQFQXUgJuEl1UAAhTAVAASAcOFQcBMVJREgslA1cSUHUGBkwAWQBjEhZSXARCbFIKE1pKCVgLXF9NWFxZEF1YPRNRUwhRAl0SB10JFlYUXENBU0ddO01BEgENMXlyKSN_fUUFWEFdEkYdbVINBQNYdiBAAQACPVNSEQFAWUhEDFlbCQIcLwgMUx1yAFxDUANAUAYEVkBbXFFrAFcIVw9UQEsFF10LV1kRU3ETDicQVlZEFgBfTQtAS0MEABEFdgITAXMQBVBHDE5RRAQKFAZ0EVZXeVALVxMHCkMKc0EEAUMYQwYdBlZEB3kXUwstXAtWdVwBFlEBEwMiFlF9EEBSQkFdAUVnFhBbB1lfXD5QVV8NUQxZAlQUVxMRQFBbURxbciBkEwVUFlVBQEcTVQxQUgdaTgAGT1QEE15YQVwHQw1YXmcCXFhdWgNZBAoAUxNIQ1oAUWtEC0ZVCQ5RUQdKUFYWIgtdAFpHEFxeCwIMVQ8CDFEFXw==",
+					"PriceWithOutMarkfee": "435.53",
+					"RoomPrice": "392.94",
+					"TotalTax": "72.73",
+					"MarketingFee": "42.59",
+					"Fees": "74.98 AED",
+					"Salestax": "0",
+					"ResortFee": "0",
+					"CancellationStatus": "Refundable",
+					"GrandTotal": "392.94",
+					"_uiD": "307f3222-4",
+					"_RoomCode": "200036313"
+				},
+				"_Adult": "1",
+				"_Child": "0",
+				"_RoomNo": "1"
+			},
+			"_TTICode": "17730306",
+			"_HotelCode": "691415",
+			"_SupplierCode": "1EP"
+		},
+		"BCount": [
+			{
+				"_Type": "Room Only",
+				"__text": "105"
+			},
+			{
+				"_Type": "Breakfast",
+				"__text": "34"
+			}
+		],
+		"Currency": {
+			"_Supplier": "GBP",
+			"_Client": "GBP",
+			"_ROE": "0.00000"
+		},
+		"_Code": "691415",
+		"_CityCode": "Dubai"
+	}
+]
+}
